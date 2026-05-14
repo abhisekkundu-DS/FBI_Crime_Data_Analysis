@@ -1,0 +1,4 @@
+# Ignore local binary model artifacts and dataset CSVs
+*.pkl
+Data_sets/*.csv
+
